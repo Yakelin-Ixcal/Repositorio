@@ -1,0 +1,42 @@
+*{
+    margin: auto;
+    padding: auto;
+    background-color: rgba(0, 0, 0, 0.384);
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Montez', cursive;
+   font-family: 'Pacifico', cursive;
+
+}
+
+h1{
+    background-color: black;
+    text-decoration: blanchedalmond;
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin: 10px;
+    padding: 5px;
+    font-size: 70px;
+    margin-top: 30px;
+    font-size: 80px;
+}
+h2{
+
+    color: brown;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    font-size: 50px;
+    font-size: 50px; 
+
+}
+
+img{
+    width: 450px; height: 600px;
+    border: rgb(255, 246, 246);
+    margin: 40px;
+    padding: 5px;
+
+}
+
+
